@@ -1,0 +1,9 @@
+{
+  "name": "hw-backend",
+  "version": "1.0.0",
+  "description": "Backend for homework session 10 ex3",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
